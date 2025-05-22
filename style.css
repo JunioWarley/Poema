@@ -74,12 +74,12 @@ section p {
     font-size: 20px;
 }
 section#img1{
-    background-image: url(Cordel/imagens2/background001.jpg);
+    background-image: url(imagens/background001.jpg);
     background-position: right center;
     background-size: cover;
 }
 section#img2{
-    background-image: url(Cordel/imagens2/background002.jpg);
+    background-image: url(imagens/background002.jpg);
     background-position: left center;
     background-size: cover;
 }
